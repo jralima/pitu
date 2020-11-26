@@ -69,8 +69,9 @@ Essa aplicação foi realizada durante a **Semana Full Stack JS**, projeto do pr
   $ npm start # ou yarn start
 
   # CONEXÃO COM BANCO DE DADOS MYSQL
-  # backend > database.ts
-  # mysql://<USUARIO>:<SENHA_MY_SQL>@<SUA_URL>:3306/<NOME_DO_BANCO_DE_DADOS>
+  # Criar arquivo .env
+  # Incluir tag: DB_CONNECTION="mysql://<USUARIO>:<SENHA_MY_SQL>@<SUA_URL>:3306/<NOME_DO_BANCO_DE_DADOS>"
+  # Obs: Quando executar o comando "npm start", será criada uma pasta "dist" dentro do backend. Copiar o arquivo .env pra dentro desta pasta também.
 
   # APLICAÇÃO WEB
   $ cd frontend
