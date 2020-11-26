@@ -36,6 +36,7 @@ Essa aplicação foi realizada durante a **Semana Full Stack JS**, projeto do pr
 -  [Node.js](https://nodejs.org/en/)
 -  [NPM](https://www.npmjs.com/)
 -  [React Bootstrap](https://react-bootstrap.github.io/)
+-  [Font Awesome](https://fontawesome.com/)
 -  [ReactJS](https://reactjs.org/)
 -  [SCSS](https://sass-lang.com/)
 -  [Styled Components](https://styled-components.com/)
@@ -79,12 +80,9 @@ Essa aplicação foi realizada durante a **Semana Full Stack JS**, projeto do pr
   $ yarn start # ou npm start
 ```
 
-## Algumas referências:
+## e-Books:
 
-- [react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction/)
-- [font awesome](https://fontawesome.com/)
-- [date-fns](https://date-fns.org/)
-- [e-Book Frontend para iniciantes](https://github.com/jralima/pitu/blob/main/docs/frontend-para-iniciantes.pdf)
+- [Frontend para iniciantes](https://github.com/jralima/pitu/blob/main/docs/frontend-para-iniciantes.pdf)
 
 
 ## :memo: Licença
