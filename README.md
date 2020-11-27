@@ -10,6 +10,11 @@
     </a><br/>
 </p>
 
+<p align="center">
+    Link do projeto em produção na AWS: 
+    <a href="http://www.pitulacerda.tk/" target="_blank">http://www.pitulacerda.tk/</a>
+    <br/>
+</p>
 
 <p align="center">
     <a href="#bookmark-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,30 +23,29 @@
     <a href="#memo-licença">Licença</a>
 </p>
 
-
 ## :bookmark: Sobre o Projeto
 
 O **Pitu** é uma aplicação Web que possibilita aos usuários encurtar e vizualizar estatíticas da URL que ele resolveu encurtar.
 
-Este projeto foi idealizado pensando no camarão **pitu**, caracterizado por nascer pequenininho e em sua forma adulta ser muito grande. 
+Este projeto foi idealizado pensando no camarão **pitu**, caracterizado por nascer pequenininho e em sua forma adulta ser muito grande.
 
 Essa aplicação foi realizada durante a **Semana Full Stack JS**, projeto do professor [Luiz Duarte](https://www.luiztools.com.br).
 
 ## :rocket: Tecnologias Utilizadas
 
--  [Axios](https://github.com/axios/axios)
--  [Date-fns](https://date-fns.org/)
--  [Express](https://expressjs.com/)
--  [MySQL](https://www.mysql.com/)
--  [Node.js](https://nodejs.org/en/)
--  [NPM](https://www.npmjs.com/)
--  [React Bootstrap](https://react-bootstrap.github.io/)
--  [Font Awesome](https://fontawesome.com/)
--  [ReactJS](https://reactjs.org/)
--  [SCSS](https://sass-lang.com/)
--  [Styled Components](https://styled-components.com/)
--  [Typescript](https://www.typescriptlang.org/)
--  [Yarn](https://yarnpkg.com/)
+- [Axios](https://github.com/axios/axios)
+- [Date-fns](https://date-fns.org/)
+- [Express](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [Node.js](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Font Awesome](https://fontawesome.com/)
+- [ReactJS](https://reactjs.org/)
+- [SCSS](https://sass-lang.com/)
+- [Styled Components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Yarn](https://yarnpkg.com/)
 
 ## :boom: Como Executar
 
@@ -85,10 +89,10 @@ Essa aplicação foi realizada durante a **Semana Full Stack JS**, projeto do pr
 
 - [Frontend para iniciantes](https://github.com/jralima/pitu/blob/main/docs/frontend-para-iniciantes.pdf)
 
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
 <sup>Projeto desenvolvido com a tutoria de [Luiz Duarte](https://github.com/luiztools), da [LuizTools](https://www.luiztools.com.br).</sup>

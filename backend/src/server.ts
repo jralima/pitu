@@ -10,4 +10,4 @@ console.log('Database running at 3306');
 
 const APP_PORT = process.env.PORT || 3001;
 app.listen(APP_PORT);
-console.log(`'Server running at ${APP_PORT}'`);
+console.log(`Server running at ${APP_PORT}`);
